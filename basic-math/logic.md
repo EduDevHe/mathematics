@@ -37,28 +37,30 @@
 
 ### Tabela da Verdade
 
-| $P$ |
+| P   |
 |-----|
 | V   | 
 | F   | 
 
 ### Tabela da Negação
 
-| $¬P$ |
+| ¬P   |
 |------|
 | F    | 
 | V    | 
 
 ### Tabela da Conjunção 
 
-| $P$ | $Q$ | $P∧Q$ |
+| P   | Q   | P∧Q   |
 |-----|-----|-------|
 | V   | V   | V     |
 | V   | F   | F     |
 | F   | V   | F     |
 | F   | F   | F     |
+
 ### Tabela da Disjunção
-| $P$ | $Q$ | $P∨Q$ |
+
+| P   | Q   | P∨Q   |
 |-----|-----|-------|
 | V   | V   | V     |
 | V   | F   | V     |
@@ -67,7 +69,7 @@
 
 ### Tabela da Condicional
 
-| $P$ | $Q$ | $P→Q$ |
+| P   | Q   | P→Q   |
 |-----|-----|-------|
 | V   | V   | V     |
 | V   | F   | F     |
@@ -76,7 +78,7 @@
 
 ### Tabela da Bicondicional
 
-| $P$ | $Q$ | $P↔Q$ |
+| P   | Q   | P↔Q   |
 |-----|-----|-------|
 | V   | V   | V     |
 | V   | F   | F     |
