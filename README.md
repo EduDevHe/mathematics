@@ -17,7 +17,7 @@
 > git clone https://github.com/seu-usuario/math-concepts.git
 
 ## 📚 Tópicos Abordados
-> Matemática Básica: [Lógica]()
+> Matemática Básica: [Lógica](https://edudevhe.github.io/mathematics/basic-math/logic)
 
 ## 🤝 Contribuições
 > Contribuições são bem-vindas! Siga estas etapas para contribuir:
