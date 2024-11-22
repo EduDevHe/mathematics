@@ -3,13 +3,13 @@
 
 > ## A Logica busca validar argumentos por meios de preposições 
 > Exemplos de preposições :   
-> - $p$: Brasilia é a capital do Brasil.  
-> - $q$: 1+1 = 2
+> - p: Brasilia é a capital do Brasil.  
+> - q: 1+1 = 2
 
 > ## Preposições compostas 
 > Exemplos de preposição composta :
-> - $p$:  1+1 = 2 e 2+3 = 5.
-> - $q$:  São Paula é um estado do brasil ou Brasilia.
+> - p:  1+1 = 2 e 2+3 = 5.
+> - q:  São Paula é um estado do brasil ou Brasilia.
 	
 
 > ## Princípios Lógicos 
@@ -21,18 +21,18 @@
 
 ## Conectivos 
 
-  > - $^$ = **e** : O céu é azul e a lua é um satélite natural.
-  > - $v$ = **ou** :  Carlos é presidente ou vereador.
-  > - $->$ = **se então** : Se o céu é azul então a lua é um satélite da terra.
-  > - $<->$ = **se e somente se** : O céu é azul se e somente se a lua é um satélite da terra. 
+  > - ∧ = **e** : O céu é azul e a lua é um satélite natural.
+  > - ∨ = **ou** :  Carlos é presidente ou vereador.
+  > - -> = **se então** : Se o céu é azul então a lua é um satélite da terra.
+  > - <-> = **se e somente se** : O céu é azul se e somente se a lua é um satélite da terra. 
   > - $¬$ = **não** : O céu não é azul.
 
 | Conectivos  | Descrição                    |
 | ----------- | ---------------------------- |
-| ^           | Conjução : e                 |
-| v           | Disjunção : ou               |
-| ->          | Condicional: se então        |
-| <->         | Bicondicional se e somente se|
+| ∧           | Conjução : e                 |
+| ∨           | Disjunção : ou               |
+| →          | Condicional: se então        |
+| ↔         | Bicondicional se e somente se|
 | ¬           | Negação: não                 |
 
 ### Tabela da Verdade
@@ -86,4 +86,5 @@
 | F   | F   | V     |
 
 
-
+### Bibliografia recomendada
+### Referencia: ALENCAR FILHO, Edgard de. Iniciação à Lógica Matemática. . Editora Nobel. 2002
