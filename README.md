@@ -13,7 +13,6 @@
 │   └── logic.md
 └── README.md
 ```
-
 ## 🚀 Como Usar
 > git clone https://github.com/seu-usuario/math-concepts.git
 
@@ -22,11 +21,12 @@
 
 ## 🤝 Contribuições
 > Contribuições são bem-vindas! Siga estas etapas para contribuir:
-  - Crie Fork este repositório.
+  - Crie um Fork deste repositório.
+  - Crie um pull requeste.
 
 ## 📧 Contato
 > Caso tenha dúvidas ou sugestões, entre em contato:
 
-  Autor: Eduardo Henrique de S. S. Hoffmann
-  E-mail: edu.he.dev@gmail.com
-  LinkedIn: [edudevhe](https://www.linkedin.com/in/edudevhe/)
+  - Autor: Eduardo Henrique de S. S. Hoffmann
+  - E-mail: edu.he.dev@gmail.com
+  - LinkedIn: [edudevhe](https://www.linkedin.com/in/edudevhe/)
