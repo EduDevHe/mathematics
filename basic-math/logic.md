@@ -1,7 +1,7 @@
 
-# Logica 
+# Lógica 
 
-> ## A Logica busca validar argumentos por meios de preposições 
+> ## A Lógica busca validar argumentos por meios de preposições 
 > Exemplos de preposições :   
 > - p: Brasilia é a capital do Brasil.  
 > - q: 1+1 = 2
